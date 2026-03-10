@@ -1,2 +1,2 @@
 # physics-simulator
-Implement relativistic equations to produce astrophysics simulations.
+Implement equations to produce physics simulations.
